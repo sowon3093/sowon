@@ -17,7 +17,6 @@ char* solution(int num) {
 }
 
 int main(){
-    printf(solution(3));
     printf("%c",solution(3));
     return 0;
 }
