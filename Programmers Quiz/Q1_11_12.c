@@ -17,5 +17,5 @@ char* solution(int num) {
 }
 
 int main(){
-    printf(solution(0));
+    printf(solution(3));
 }
