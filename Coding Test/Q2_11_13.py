@@ -10,4 +10,3 @@ def solution(n):
     for i in range(len(result)):
         answer+=result[i]
     return int(answer)
-    
